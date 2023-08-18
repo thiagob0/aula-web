@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculo>
+<dados_pessoais>
+    <nome>Thiago Breder</nome>
+    <data_nascimento>02/11/2002</data_nascimento>
+    <email>teste@gmail.com</email>
+    <telefone>(99)99999-9999</telefone>
+    <endereco>
+        <rua>Av.1 de Maio,720</rua>
+        <cidade>Joao pessoa,PB</cidade>
+        <bairro>Jaguaribe</bairro>
+    </endereco>
+</dados_pessoais>
+<dados_profissionais>
+<experiencia>
+    <empresa>
+        <nome_empresa>SpaceX</nome_empresa>
+        <cargo>CEO e CTO</cargo>
+        <tempo>2016-atual</tempo>
+    </empresa>
+    <empresa>
+        <nome_empresa>Tesla</nome_empresa>
+        <cargo>CEO</cargo>
+        <tempo>2014-atual</tempo>
+    </empresa>
+</experiencia>
+    <competencias>
+        <ferramenta>Javascript</ferramenta>
+        <ferramenta>CSS</ferramenta>
+        <ferramenta>HTML</ferramenta>
+        <ferramenta>XML</ferramenta>
+    </competencias>
+</dados_profissionais>
+<dados_academicos>
+    <formacao_academica>
+        <instituto>
+            <nome>Instituto federal de eduacacao, ciencia e tecnologia da paraiba</nome>
+            <curso>Mestrado profissional em informatica</curso>
+            <tempo>2016-atual</tempo>
+        </instituto>
+        <instituto>
+            <nome>Instituto federal de eduacacao, ciencia e tecnologia da paraiba</nome>
+            <curso>Curso superior em tecnologia em sistemas para internet</curso>
+            <tempo>2010-2013</tempo>
+        </instituto>
+    </formacao_academica>
+</dados_academicos>
+</curriculo>
